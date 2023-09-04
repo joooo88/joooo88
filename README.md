@@ -12,4 +12,4 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://github.com/joooo88})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=joooo88)](https://solved.ac/joooo88)
