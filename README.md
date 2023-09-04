@@ -1,11 +1,12 @@
-###
+### ★★★★★
 
-<img src=""C:\Users\User\Downloads\drive-download-20230901T020829Z-001\별.jpg"" width="?%" height="?%">
 
 <!--
 **joooo88/joooo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img src=""C:\Users\User\Downloads\drive-download-20230901T020829Z-001\별.jpg"" width="?%" height="?%">
+[![trophy](https://github-profile-trophy.vercel.app/?username=joooo88)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
