@@ -2,6 +2,7 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=joooo88&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![joooo88's github stats](https://github-readme-stats.vercel.app/api?username=joooo88&show_icons=true)
