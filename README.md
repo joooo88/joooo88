@@ -1,6 +1,7 @@
 ### ★★★★★
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joooo88&row=1)](https://github.com/ryo-ma/github-profile-trophy)
